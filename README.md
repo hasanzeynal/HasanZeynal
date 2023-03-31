@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on QSS Analytics as a Data Scientist Intern<br>🤝 I’m looking for help with Deep Reinforcement Learning<br>🌱 I’m currently learning Advanced Deep Learning,Reinforcement Learning and NLP<br>
+🔭 I’m currently working on QSS Analytics as a Data Scientist Intern<br>🤝 I’m looking for help with Deep Reinforcement Learning<br>🌱 I’m currently learning Advanced Deep Learning,Reinforcement Learning<br>
 
 
 ## 🌐 Socials:
