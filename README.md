@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on QSS Analytics as a Data Scientist Intern about 6 month<br>🤝 I’m looking for help with Deep Reinforcement Learning<br>🌱 I’m currently learning Advanced Deep Learning,Computer Vision and NLP for Tensorflow Developer Certificate<br>📫 Contact: hasanzeynaloff@gmail.com <br>
-📞 Phone Number: +99451 628 11 86
+📞 Phone Number: +994 51 628 11 86
 
 
 ## 🌐 Socials:
