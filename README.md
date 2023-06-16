@@ -1,6 +1,5 @@
 # 💫 About Me:
-👀 I am looking for job as a ML/AI Engineer and Data Scientist.\
-<br>🤝 I’m looking for help with Deep Reinforcement Learning<br>🌱 I’m currently learning Advanced Deep Learning,Computer Vision and NLP for Tensorflow Developer Certificate.<br>📫 Contact: hasanzeynaloff@gmail.com <br>
+👀 I am looking for job as a ML/AI Engineer and Data Scientist.<br>🤝 I’m looking for help with Deep Reinforcement Learning<br>🌱 I’m currently learning Advanced Deep Learning,Computer Vision and NLP for Tensorflow Developer Certificate.<br>📫 Contact: hasanzeynaloff@gmail.com <br>
 📞 Phone Number: +994 51 628 11 86
 
 
