@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Data Scientist Intern at Kapital Bank.<br>🤝 I’m looking for help with Deep Reinforcement Learning<br>🌱 I’m currently learning Advanced Deep Learning, Computer Vision and NLP for Tensorflow Developer Certificate.<br>📫 Contact: hasanzeynaloff@gmail.com <br>
+🚀 Data Scientist at Kapital Bank.<br>🤝 I’m looking for help with Deep Reinforcement Learning<br>🌱 I’m currently learning Advanced Deep Learning, Computer Vision and NLP for Tensorflow Developer Certificate.<br>📫 Contact: hasanzeynaloff@gmail.com <br>
 
 
 ## 🌐 Socials:
