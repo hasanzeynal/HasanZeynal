@@ -1,5 +1,12 @@
 # 💫 About Me:
-🚀 Data Scientist at Kapital Bank.<br>🤝 I’m looking for help with Deep Reinforcement Learning.<br>🌱 I’m currently learning Advanced Deep Learning, Computer Vision and NLP for Tensorflow Developer Certificate.<br>📫 Contact: hasanzeynaloff@gmail.com <br>
+🚀 Experienced Data Scientist with 3+ years in banking and AI-driven solutions.  
+🎓 Incoming PhD Candidate at the University of Sydney, focusing on Autonomous Vehicles and Computer Vision.  
+👁️ Passionate about Computer Vision, Deep Reinforcement Learning and Advanced Deep Learning. 
+💻 Skilled in Python, PyTorch, TensorFlow, AWS, SQL, and Machine Learning Engineering.  
+🌱 Currently preparing for the AWS Certifications while expanding expertise in CV and DL research.  
+🤝 Open to remote job opportunities and collaborations in Computer Vision, AI, and Autonomous Systems.  
+📫 Contact: hasan.zeynalov20011@gmail.com  
+
 
 
 ## 🌐 Socials:
