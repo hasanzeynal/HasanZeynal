@@ -1,6 +1,6 @@
 # 💫 About Me:
 🚀 Experienced Data Scientist with 3+ years in banking and AI-driven solutions.  
-🎓 Incoming PhD Candidate at the University of Sydney, focusing on Autonomous Vehicles and Computer Vision.  
+🎓 PhD Candidate at the University of Sydney, focusing on Autonomous Vehicles and Computer Vision.  
 👁️ Passionate about Computer Vision, Deep Reinforcement Learning and Advanced Deep Learning. 
 💻 Skilled in Python, PyTorch, TensorFlow, AWS, SQL, and Machine Learning Engineering.  
 🌱 Currently preparing for the AWS Certifications while expanding expertise in CV and DL research.  
