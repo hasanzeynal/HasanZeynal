@@ -1,10 +1,14 @@
 # 💫 About Me:
-🚀 Experienced AI Engineer with 3+ years in banking and AI-driven solutions.  
-🎓 PhD Candidate at the University of Sydney, focusing on Autonomous Vehicles and Computer Vision.  
-👁️ Passionate about Computer Vision, Deep Reinforcement Learning and Advanced Deep Learning. 
-💻 Skilled in Python, PyTorch, TensorFlow, AWS, SQL, and Machine Learning Engineering.  
-🌱 Currently preparing for the AWS Certifications while expanding expertise in CV and DL research.  
-🤝 Open to remote job opportunities and collaborations in Computer Vision, AI, and Autonomous Systems.  
+🚀 AI & Machine Learning Engineer with 3+ years of experience building AI and data-driven solutions in the banking industry.
+
+🎓 Currently pursuing a PhD at the University of Sydney, where I'm researching Autonomous Vehicles, Computer Vision, and Deep Reinforcement Learning.
+
+💻 I enjoy building intelligent systems and have experience with Python, PyTorch, TensorFlow, AWS, SQL, Machine Learning, and Computer Vision.
+
+🌱 Always learning and exploring new technologies, with a strong interest in safe AI, robotics, reinforcement learning, and advanced deep learning.
+
+🤝 I'm currently open to part-time, full-time, remote, and research opportunities where I can contribute, learn, and grow while continuing my PhD. I'm also happy to connect with people working in AI, Computer Vision, and Autonomous Systems.
+  
 📫 Contact: hasan.zeynalov20011@gmail.com  
 
 
