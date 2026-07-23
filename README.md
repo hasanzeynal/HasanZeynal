@@ -9,12 +9,7 @@
 
 🤝 I'm always happy to connect with researchers, engineers, and recruiters. If you enjoy my projects or repositories, feel free to ⭐ them, share your thoughts, or reach out—I'm always open to collaborations, discussions, and new opportunities!
   
-📫 Contact: hasan.zeynalov20011@gmail.com  
-
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasanzeynalov/) 
+📫 You can contact me at hasan.zeynalov20011@gmail.com or [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasanzeynalov/) 
 
 
 
