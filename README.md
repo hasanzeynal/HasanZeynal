@@ -2,7 +2,7 @@
 
 🚀 **AI Engineer | Autonomous Vehicles Researcher | PhD Candidate @ University of Sydney | Autonomous Vehicles • Computer Vision • Deep Reinforcement Learning**
 
-My work ispans a wide range of AI applications, from developing intelligent systems for real-world problems to conducting research in autonomous vehicles. My current PhD research focuses on Unconnected Autonomous Vehicles in different scenarios using Pure Deep Reinforcement Learning.
+My work spans a wide range of AI applications, from developing intelligent systems for real-world problems to conducting research in autonomous vehicles. My current PhD research focuses on Unconnected Autonomous Vehicles in different scenarios using pure Deep Reinforcement Learning.
 
 💻 **Technical Interests & Skills**
 
